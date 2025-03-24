@@ -15,16 +15,54 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🛠️ Technologies I use in my day.
+<h1 align="center">👋 Hello, I'm [Seu Nome]!</h1>
 
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Microsoft SQL](https://img.shields.io/badge/-Microsoft%20SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p align="center">
+🚀 Desenvolvedor back-end apaixonado pela criação de sistemas robustos.<br>
+💻 Especialista em C# e .NET, com experiência em:
+</p>
+
+- 🛠️ Desenvolvimento web com **ASP.NET Core**
+- 📊 Construção de **APIs RESTful** eficientes
+- 📦 **Docker** e containers
+- 🗄️ **SQL** e **NoSQL**
+- 🔍 **Clean Architecture**, **CQRS**, **Design Patterns**
+
+---
+
+### 💼 **Atualmente**
+Trabalho na [Sua Empresa/Projeto] usando **C#** e **Vue.js** como principais tecnologias. Sempre em busca de aprendizado contínuo para oferecer as melhores soluções aos clientes.
+
+---
+
+### 🧰 **Tecnologias que utilizo no meu dia a dia**
+<p align="left">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+</p>
+
+---
+
+### 📊 **GitHub Stats**
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=tokyonight" />
+</div>
+
+---
+
+### 🌐 **Conecte-se comigo**
+<p align="left">
+    <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://www.youtube.com/c/seu-canal" target="_blank">
+        <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    </a>
+</p>
+
