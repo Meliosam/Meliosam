@@ -58,10 +58,10 @@ Trabalho na [Sua Empresa/Projeto] usando **C#** e **Vue.js** como principais tec
 
 ### 🌐 **Conecte-se comigo**
 <p align="left">
-    <a href="https://www.linkedin.com/in/www.linkedin.com/in/gabriel-alves-423410275/" target="_blank">
+    <a href="https://www.linkedin.com/in/www.linkedin.com/gabriel-alves-423410275/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://www.youtube.com/c/seu-canal" target="_blank">
+    <a href="https://www.youtube.com/@meliosam8029" target="_blank">
         <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
     </a>
 </p>
