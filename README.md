@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">👋 Hello, I'm [Seu Nome]!</h1>
+<h1 align="center">👋 Hello, I'm Gabriel!</h1>
 
 <p align="center">
 🚀 Desenvolvedor back-end apaixonado pela criação de sistemas robustos.<br>
@@ -58,7 +58,7 @@ Trabalho na [Sua Empresa/Projeto] usando **C#** e **Vue.js** como principais tec
 
 ### 🌐 **Conecte-se comigo**
 <p align="left">
-    <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank">
+    <a href="https://www.linkedin.com/in/www.linkedin.com/in/gabriel-alves-423410275/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://www.youtube.com/c/seu-canal" target="_blank">
