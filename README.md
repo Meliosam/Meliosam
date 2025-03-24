@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 ---
 
 ### 💼 **Atualmente**
-Trabalho na [Sua Empresa/Projeto] usando **C#** e **Vue.js** como principais tecnologias. Sempre em busca de aprendizado contínuo para oferecer as melhores soluções aos clientes.
+Atualmente, estou focado em **estudar novas tecnologias** e **desenvolver projetos pessoais** para aprimorar minhas habilidades. Exploro conceitos avançados em **C#**, **.NET**, **Vue.js** e outras ferramentas modernas, sempre buscando evoluir como desenvolvedor.
+
 
 ---
 
