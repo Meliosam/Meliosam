@@ -1,69 +1,112 @@
+# Gabriel — Backend Developer (.NET / C#)
 
+Backend developer focado em **C# e .NET**, com interesse em arquitetura de software, boas práticas e construção de APIs escaláveis.
 
-<!--
-**Meliosam/Meliosam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">👋 Hello, I'm Gabriel!</h1>
-
-<p align="center">
-🚀 Desenvolvedor back-end com foco na criação de sistemas robustos.<br>
-💻 Especialista em C# e .NET, com experiência em:
-</p>
-
-- 🛠️ Desenvolvimento web com **ASP.NET Core**
-- 📊 Construção de **APIs RESTful** eficientes
-- 📦 **Docker** e containers
-- 🗄️ **SQL** e **NoSQL**
-- 🔍 **Clean Architecture**, **CQRS**, **Design Patterns**
+Tenho estudado e aplicado conceitos como **Clean Architecture, CQRS, SOLID e Design Patterns**, sempre buscando organizar o código de forma clara e sustentável.
 
 ---
 
-### 💼 **Atualmente**
-Atualmente, estou focado em **estudar novas tecnologias** e **desenvolver projetos pessoais** para aprimorar minhas habilidades. Exploro conceitos avançados em **C#**, **.NET**, **Vue.js** e outras ferramentas modernas, sempre buscando evoluir como desenvolvedor.
+# Tecnologias principais
 
+Backend
+
+* C#
+* .NET / ASP.NET Core
+* REST APIs
+* CQRS
+* MediatR
+* AutoMapper
+* Entity Framework Core
+
+Frontend
+
+* Vue.js
+* JavaScript
+* HTML
+* CSS
+
+Banco de dados
+
+* SQL Server
+* MongoDB
+
+Ferramentas
+
+* Git
+* Swagger
+* Docker (estudos)
 
 ---
 
-### 🧰 **Tecnologias que utilizo no meu dia a dia**
-<p align="left">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-</p>
+# Projetos em destaque
+
+### E-commerce API — Clean Architecture + CQRS
+
+API de e-commerce construída com arquitetura limpa e separação entre **Commands e Queries**.
+
+Tecnologias:
+
+* .NET
+* CQRS
+* MediatR
+* Entity Framework
+* JWT
+* Swagger
+* Vue.js
+
+Repositório
+https://github.com/Meliosam/ecommerce-cqrs
 
 ---
 
-### 📊 **GitHub Stats**
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Meliosam&show_icons=true&theme=tokyonight" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=tokyonight" />
-</div>
+### Portfolio App — Backend .NET + Frontend Vue
+
+Aplicação fullstack demonstrando integração entre API em .NET e interface moderna em Vue.js.
+
+Tecnologias:
+
+* ASP.NET Core
+* Entity Framework
+* Vue.js
+* REST API
+
+Repositório
+https://github.com/Meliosam/PortfolioApp
 
 ---
 
-### 🌐 **Conecte-se comigo**
-<p align="left">
-    <a href="https://www.linkedin.com/in/www.linkedin.com/gabriel-alves-423410275/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://www.youtube.com/@meliosam8029" target="_blank">
-        <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-    </a>
-</p>
+### C# Design Patterns
 
+Implementação prática de diversos **Design Patterns** utilizando C#.
+
+Objetivo:
+demonstrar como padrões ajudam a criar código mais modular e reutilizável.
+
+Repositório
+https://github.com/Meliosam/CSharp-Design-Patterns
+
+---
+
+# O que estou estudando atualmente
+
+* Arquitetura limpa em projetos reais
+* Padrões de projeto em C#
+* Testes automatizados em .NET
+* Docker e CI/CD
+* Construção de APIs escaláveis
+
+---
+
+# GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meliosam\&show_icons=true\&theme=tokyonight)
+
+---
+
+# Contato
+
+LinkedIn
+(https://www.linkedin.com/in/gabriel-alves-423410275/)
+
+GitHub
+https://github.com/Meliosam
