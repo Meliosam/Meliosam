@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">👋 Hello, I'm Gabriel!</h1>
 
 <p align="center">
-🚀 Desenvolvedor back-end apaixonado pela criação de sistemas robustos.<br>
+🚀 Desenvolvedor back-end com foco na criação de sistemas robustos.<br>
 💻 Especialista em C# e .NET, com experiência em:
 </p>
 
