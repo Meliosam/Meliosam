@@ -75,15 +75,32 @@ https://github.com/Meliosam/PortfolioApp
 
 ---
 
-### C# Design Patterns
+### EmailSender C#
 
-Implementação prática de diversos **Design Patterns** utilizando C#.
+Ferramenta escalável para envio de e-mails em lote com controle de filas, throttling e relatórios.
+
+Tecnologias:
+
+ASP.NET Core 8 — API REST
+Entity Framework Core — ORM com PostgreSQL
+MailKit — envio SMTP
+System.Threading.Channels — fila in-memory (troque por RabbitMQ em produção)
+xUnit + Moq — testes unitários e de integração
+Docker + docker-compose — ambiente completo local
 
 Objetivo:
-demonstrar como padrões ajudam a criar código mais modular e reutilizável.
+
+ Envio unitário e em lote (bulk)
+ Sistema de filas com BackgroundService
+ Throttling via SemaphoreSlim
+ Templates com variáveis dinâmicas ({{nome}})
+ Gestão de listas (opt-in / opt-out)
+ Relatórios de entrega (enviados, abertos, rejeitados)
+ Integração com SendGrid / Mailgun 
+ Webhooks de tracking de abertura
 
 Repositório
-https://github.com/Meliosam/CSharp-Design-Patterns
+https://github.com/Meliosam/EmailSender
 
 ---
 
