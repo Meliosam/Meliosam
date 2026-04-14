@@ -40,6 +40,25 @@ Ferramentas
 
 # Projetos em destaque
 
+### 💳 PagBank Integration — C# / ASP.NET Core
+
+Integração completa com a API do PagBank (PagSeguro) em C#, com suporte a tokenização de cartão de crédito, cobrança segura e logging estruturado.
+
+🚀 Funcionalidades
+✅ Tokenização de cartão de crédito via API PagBank
+✅ Cobrança usando card token (dados brutos nunca são persistidos)
+✅ Logging estruturado com Serilog (console + arquivo rotacionado)
+✅ Middleware de logging de requisições com Request ID
+✅ Tratamento de erros com exceções personalizadas
+✅ Suporte a ambiente Sandbox e Produção
+✅ Documentação interativa via Swagger/OpenAPI
+✅ Injeção de dependência nativa do ASP.NET Core
+
+Repositório
+https://github.com/Meliosam/pagbank-integration-csharp
+
+---
+
 ### E-commerce API — Clean Architecture + CQRS
 
 API de e-commerce construída com arquitetura limpa e separação entre **Commands e Queries**.
@@ -101,6 +120,11 @@ Objetivo:
 
 Repositório
 https://github.com/Meliosam/EmailSender
+
+
+
+
+
 
 ---
 
