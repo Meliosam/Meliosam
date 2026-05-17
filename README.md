@@ -11,9 +11,12 @@ Tenho estudado e aplicado conceitos como **Clean Architecture, CQRS, SOLID e Des
 Backend
 
 * C#
+* 
 * .NET / ASP.NET Core
 * REST APIs
+* SOLID
 * CQRS
+* TDD 
 * MediatR
 * AutoMapper
 * Entity Framework Core
@@ -24,6 +27,8 @@ Frontend
 * JavaScript
 * HTML
 * CSS
+* React.js
+* SaaS
 
 Banco de dados
 
@@ -34,8 +39,9 @@ Ferramentas
 
 * Git
 * Swagger
-* Docker (estudos)
-
+* Docker
+* Claude (Anthropic)
+* Codex
 ---
 
 # Projetos em destaque
