@@ -11,7 +11,6 @@ Tenho estudado e aplicado conceitos como **Clean Architecture, CQRS, SOLID e Des
 Backend
 
 * C#
-* 
 * .NET / ASP.NET Core
 * REST APIs
 * SOLID
